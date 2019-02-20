@@ -7,4 +7,5 @@ function takeANumber(currentLine,name){
 
 function nowServing(currentLine){
   var x=currentLine.index[0];
+  currentLine.splice(
 }
